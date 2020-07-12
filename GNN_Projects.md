@@ -14,7 +14,7 @@
 [code](https://github.com/thunlp/GEAR)
 
 - Fine-grained Fact Verification with Kernel Graph Attention Network. Zhenghao Liu, Chenyan Xiong, Maosong Sun, Zhiyuan Liu. ACL 2020  
-[code](https://github.com/thunlp/KernelGAT
+[code](https://github.com/thunlp/KernelGAT)
 
 - Attention Guided Graph Convolutional Networks for Relation Extraction. Zhijiang Guo, Yan Zhang and Wei Lu. ACL 2019  
 [code](https://github.com/Cartus/AGGCN_TACRED)
